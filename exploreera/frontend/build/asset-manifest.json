@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "//zaenarifputra.github.io/exploreera/static/css/main.d30a11b3.css",
+    "main.js": "//zaenarifputra.github.io/exploreera/static/js/main.c72bc4f4.js",
+    "static/media/pichome.png": "//zaenarifputra.github.io/exploreera/static/media/pichome.9b42daa176ffbf4ae787.png",
+    "static/media/remixicon.svg?t=1590207869815": "//zaenarifputra.github.io/exploreera/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/lawang-sewu.jpg": "//zaenarifputra.github.io/exploreera/static/media/lawang-sewu.b54a836eaf572fd9b1d7.jpg",
+    "static/media/nusa-penida.jpg": "//zaenarifputra.github.io/exploreera/static/media/nusa-penida.754d80ad5c2af53489a1.jpg",
+    "static/media/remixicon.eot?t=1590207869815": "//zaenarifputra.github.io/exploreera/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "//zaenarifputra.github.io/exploreera/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/picbudaya.png": "//zaenarifputra.github.io/exploreera/static/media/picbudaya.e1a5c8421d5eabf6a157.png",
+    "static/media/ava-1.jpg": "//zaenarifputra.github.io/exploreera/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "//zaenarifputra.github.io/exploreera/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/museum-nasional.jpg": "//zaenarifputra.github.io/exploreera/static/media/museum-nasional.8c19e59d4652af00dea5.jpg",
+    "static/media/ava-2.jpg": "//zaenarifputra.github.io/exploreera/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/candi-borobudur.jpg": "//zaenarifputra.github.io/exploreera/static/media/candi-borobudur.fd6bccb61b87b07d20b7.jpg",
+    "static/media/picbatik.png": "//zaenarifputra.github.io/exploreera/static/media/picbatik.4a53280df38b2b3305e4.png",
+    "static/media/remixicon.woff?t=1590207869815": "//zaenarifputra.github.io/exploreera/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/lava-flow.jpg": "//zaenarifputra.github.io/exploreera/static/media/lava-flow.2c3ff99a5f174711d0da.jpg",
+    "static/media/male-tourist.png": "//zaenarifputra.github.io/exploreera/static/media/male-tourist.f000d0ad1ca492b2bcfb.png",
+    "static/media/monas.jpg": "//zaenarifputra.github.io/exploreera/static/media/monas.211a6966ea857d42845e.jpg",
+    "static/media/remixicon.woff2?t=1590207869815": "//zaenarifputra.github.io/exploreera/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/mandala-suci.jpg": "//zaenarifputra.github.io/exploreera/static/media/mandala-suci.a19dea607641dedc7c5a.jpg",
+    "static/media/sate-ayam.jpg": "//zaenarifputra.github.io/exploreera/static/media/sate-ayam.0bd0766a8e3186c8ab6b.jpg",
+    "static/media/labuan-bajo.jpg": "//zaenarifputra.github.io/exploreera/static/media/labuan-bajo.ef7135a49c7c040927a6.jpg",
+    "static/media/reog.jpg": "//zaenarifputra.github.io/exploreera/static/media/reog.d206034e2e43b2bf714b.jpg",
+    "static/media/slick.svg": "//zaenarifputra.github.io/exploreera/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "//zaenarifputra.github.io/exploreera/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "//zaenarifputra.github.io/exploreera/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "//zaenarifputra.github.io/exploreera/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "//zaenarifputra.github.io/exploreera/index.html",
+    "main.d30a11b3.css.map": "//zaenarifputra.github.io/exploreera/static/css/main.d30a11b3.css.map",
+    "main.c72bc4f4.js.map": "//zaenarifputra.github.io/exploreera/static/js/main.c72bc4f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d30a11b3.css",
+    "static/js/main.c72bc4f4.js"
+  ]
+}

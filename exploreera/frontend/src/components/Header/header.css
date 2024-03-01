@@ -1,0 +1,51 @@
+.header {
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    background: linear-gradient(rgba(33,33,33,0.522), rgba(33,33,33,0.522));
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+.logo img {
+    width: 80%;
+}
+
+.menu {
+    margin-bottom: 0;
+}
+
+.nav_item a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.1rem;
+    
+}
+
+.nav_item a:hover{
+    color: #FFBB0C;
+}
+
+.nav_item a.active_link{
+    color: #FFBB0C;
+}
+
+.mobile_menu{
+    font-size: 1.3rem;
+    color: var(--heading-color);
+    display: none;
+}
+
+.sticky_header {
+    width: 100%;
+    height: 80px;
+    line-height: 80px;
+    background-attachment: #fff;
+    position: sticky;
+    top: 0;
+    left: 0;
+    box-shadow: 3px 3px 8px -3px #ddd;
+    z-index: 999;
+}

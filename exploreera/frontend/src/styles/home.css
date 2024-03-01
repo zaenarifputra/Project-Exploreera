@@ -1,0 +1,163 @@
+body {
+    background-position: unset;
+    background-size: cover;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-image: url(/src/assets/images/pichome.png);
+
+}
+
+.hero_content h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+    
+}
+
+.hero_content h2 {
+    color: #E2E2E2;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 15.84px;
+    margin-left: 5%;
+    margin-top: 230px;
+}
+
+.hero_content p {
+    color: #E2E2E2;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-left: 5%;
+}
+
+.featured_tour-title{
+    color: #00272C;
+    font-family: General Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: normal;
+}
+
+.featured_p{
+    color: #1E1E1E;
+    font-family: General Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    font-weight: lighter;
+}
+
+.experience_content h2{
+    color: #00272C;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.experience_content p{
+    color: #1E1E1E;
+    font-family: General Sans;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+}
+
+.counter_warpper{
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+}
+
+.experience_title {
+    color: var(--0-b-3-c-23, #0B3C23);
+    font-family: Poppins;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin-left: 14.5%;
+    text-align: center;
+}
+
+.description {
+    color: #737C78;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.jumlah {
+    margin-left: 16px;
+}
+
+.title_gallery {
+    color: #00272C;
+    font-family: General Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.description_gallery {
+    color: #1E1E1E;
+    font-family: General Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.masonry_image {
+    transition: .3s;
+}
+
+.masonry_image:hover{
+    transform: scale(1.1);
+}
+
+.testimonial_title{
+    color: #00272C;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.testimonial_desc{
+    color: #1E1E1E;
+    text-align: center;
+    font-family: General Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+
+.rated {
+    height: 10px;
+}
